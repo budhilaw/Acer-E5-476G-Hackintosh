@@ -1,10 +1,10 @@
 # Acer E5-476G 
-Work smoothly on MacOS Mojave
 ![Hackintosh Cover](https://user-images.githubusercontent.com/30723613/56214257-bd0b5a00-6087-11e9-8fd4-b06ed47d5754.png)
 
 ## Detail
 ```
 Config Version: v1.2
+OS: MacOS Mojave
 Date: 17/04/2019
 BIOS Version: 1.37
 Status: Stable
